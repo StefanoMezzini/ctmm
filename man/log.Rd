@@ -29,7 +29,7 @@ Exp(est,VAR.est=0,VAR=0,VAR.VAR=0,variable="area",debias=TRUE,level=0.95,units=T
 
 \value{\code{Log} returns a list with two slots, \code{log} and \code{VAR.log}, corresponding to the point estimates and variance estimates of the logged variables.
 
-\code{Exp} returns a confidence intervals for the back-transformed mean parameter estimate.}
+\code{Exp} returns confidence intervals for the back-transformed mean parameter estimate.}
 
 %\section{Warnings}{}
 
